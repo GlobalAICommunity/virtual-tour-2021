@@ -32,7 +32,7 @@
 ## Slot 3 - Bengaluru
 **Responsible for Slot:** Sammy
 
-**Organizer/Host:** Simon (C# Corner)?
+**Organizer/Host:** Simon (C# Corner)? (Contacted)
 
 **Reactor:** Bengaluru
 
@@ -61,7 +61,7 @@
 ## Slot 5 - Chile
 **Responsible for Slot:** Sammy
 
-**Organizer/Host:** Juan Rafael & Luis Beltran ?
+**Organizer/Host:** Juan Rafael & Luis Beltran ? (Contacted)
 
 **Reactor:** Sao Paulo
 
@@ -89,7 +89,7 @@
 ## Slot 7 - Singapore
 **Responsible for Slot:** Sammy
 
-**Organizer/Host:** Setu Chokshi
+**Organizer/Host:** Setu Chokshi (Confirmed)
 
 **Reactor:** none
 
