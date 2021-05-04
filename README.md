@@ -11,8 +11,7 @@
 ## Slot 1 - Houston
 **Responsible for Slot:** Alicia
 
-**Organizer/Host:** Alicia (Confirmed)
-
+**Organizer/Host:** Alicia
 **Reactor:** none
 
 |Local Time|UTC|
@@ -25,7 +24,7 @@
 ## Slot 2 - Sydney
 **Responsible for Slot:** Akanksha
 
-**Organizer/Host:** Akanksha ??
+**Organizer/Host:** Akanksha
 
 **Reactor:** Sydney
 
