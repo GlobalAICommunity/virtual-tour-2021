@@ -1,5 +1,5 @@
 # Virtual Tour Playbook
-
+* [Info Email](InviteHostMail.md)
 
 ## Slot 1 - Houston
 **Responsible for Slot:** Alicia
@@ -89,7 +89,7 @@
 ## Slot 7 - Singapore
 **Responsible for Slot:** Sammy
 
-**Organizer/Host:** Sethu ?
+**Organizer/Host:** Setu Chokshi
 
 **Reactor:** none
 
