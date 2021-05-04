@@ -1,6 +1,13 @@
 # Virtual Tour Playbook
 * [Info Email](InviteHostMail.md)
 
+# Slot Status
+||Slot 1 Houston|Slot 2 Sydney|Slot 3 Bengaluru|Slot 4 Oslo|Slot 5 Chile |Slot 6 Auckland|Slot 7 Singapore|Slot 8 Istanbul|Slot 9 Madrid|Slot 10 Toronto|
+|-|-|-|-|-|-|-|-|-|-|-|
+|**Organizer Confirmed**|Yes|No|No|Yes|Yes|No|Yes|No|No|No|
+|**Agenda Confirmed**|No|No|No|No|No|No|No|No|No|No
+
+# Slots
 ## Slot 1 - Houston
 **Responsible for Slot:** Alicia
 
@@ -61,7 +68,7 @@
 ## Slot 5 - Chile
 **Responsible for Slot:** Sammy
 
-**Organizer/Host:** Juan Rafael & Luis Beltran ? (Contacted)
+**Organizer/Host:** Juan Rafael & Luis Beltran ? (Confirmed)
 
 **Reactor:** Sao Paulo
 
