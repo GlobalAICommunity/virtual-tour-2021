@@ -25,7 +25,7 @@
 ## Slot 2 - Sydney
 **Responsible for Slot:** Akanksha
 
-**Organizer/Host:** Akanksha (Confirmed)
+**Organizer/Host:** Akanksha ??
 
 **Reactor:** Sydney
 
