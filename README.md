@@ -64,7 +64,7 @@
 |20:00|18:00|
 |21:00|19:00|
 
-## Slot 5 - Chile
+## Slot 5 - Latin America
 **Responsible for Slot:** Sammy
 
 **Organizer/Host:** Juan Rafael & Luis Beltran
