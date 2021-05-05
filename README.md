@@ -35,7 +35,7 @@
 |20:00|08:00|
 |21:00|09:00|
 
-## Slot 3 - Bengaluru
+## Slot 3 - Delhi
 **Responsible for Slot:** Sammy
 
 **Organizer/Host:** Simon (C# Corner)
