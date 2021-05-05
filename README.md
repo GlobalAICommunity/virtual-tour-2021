@@ -2,7 +2,7 @@
 * [Info Email](InviteHostMail.md)
 
 # Slot Status
-||Slot 1 Houston|Slot 2 Sydney|Slot 3 Bengaluru|Slot 4 Oslo|Slot 5 Chile |Slot 6 Auckland|Slot 7 Singapore|Slot 8 Istanbul|Slot 9 Madrid|Slot 10 Toronto|
+||Slot 1 Houston|Slot 2 Sydney|Slot 3 Delhi|Slot 4 Oslo|Slot 5 Latin America |Slot 6 Auckland|Slot 7 Singapore|Slot 8 Istanbul|Slot 9 Madrid|Slot 10 Toronto|
 |-|-|-|-|-|-|-|-|-|-|-|
 |**Organizer Confirmed**|Yes|Yes|Yes|Yes|Yes|No|Yes|Yes|No|Yes|
 |**Agenda Confirmed**|No|No|No|No|No|No|No|No|No|No
