@@ -1,7 +1,7 @@
 # Virtual Tour Playbook
 * [Info Email](InviteHostMail.md)
 * [Streaming Guide](StreamingGuide.md)
-* 
+
 # Slot Status
 ||Slot 1 Houston|Slot 2 Sydney|Slot 3 Delhi|Slot 4 Oslo|Slot 5 Latin America |Slot 6 Auckland|Slot 7 Singapore|Slot 8 Istanbul|Slot 9 Madrid|Slot 10 Toronto|
 |-|-|-|-|-|-|-|-|-|-|-|
